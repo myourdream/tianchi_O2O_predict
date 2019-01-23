@@ -1,0 +1,7 @@
+O2O1_predict_100line_code.py, 天池比赛分数：0.53
+
+O2O3_ofoFeature_auc78.py+O2O3_Xgboost_auc78.py, 天池比赛分数：0.78
+
+O2O2_predict_auc81_feature.py+O2O2_predict_auc81_xgb_booster.py, 天池比赛分数：0.80
+
+others：待优化

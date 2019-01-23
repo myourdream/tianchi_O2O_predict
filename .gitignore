@@ -1,0 +1,11 @@
+.idea/
+/_gsdata_
+/dataset
+/train_dir_2
+/train_dir_3
+/train_dir_4
+/data_preprocessed_2
+/data_preprocessed_3
+/data_preprocessed_4
+*.csv
+*.pkl
